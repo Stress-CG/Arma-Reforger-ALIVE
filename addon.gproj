@@ -1,0 +1,20 @@
+GameProject {
+ ID "ArmaReforgerAlive"
+ GUID "C0A9E5E4A71B4D9F"
+ TITLE "Arma Reforger ALIVE"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig HEADLESS {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+ }
+}
